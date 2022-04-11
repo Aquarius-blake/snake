@@ -36,4 +36,5 @@ def compute_lcm(x, y):
                                                                                                                                                       return lcm
                                                                                                                                                   
                                                                                                                                                   num1 = 54
+                                                                                                                                                  num2 = 24
                                                                                                                                                   
