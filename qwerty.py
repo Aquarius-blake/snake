@@ -25,4 +25,5 @@ def compute_lcm(x, y):
                                                                                 print("The L.C.M. is", compute_lcm(num1, num2))
                                                                                 def compute_lcm(x, y):
                                                                                     
-                                                                                    
+                                                                                       # choose the greater number
+                                                                                       
