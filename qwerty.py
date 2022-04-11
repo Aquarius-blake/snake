@@ -5,4 +5,5 @@ def compute_lcm(x, y):
        
        def compute_lcm(x, y):
            
-           
+              # choose the greater number
+              
