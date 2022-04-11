@@ -33,4 +33,5 @@ def compute_lcm(x, y):
                                                                                                                                                 break
                                                                                                                                                    greater += 1
                                                                                                                                                    
-                                                                                                                                                   
+                                                                                                                                                      return lcm
+                                                                                                                                                  
