@@ -28,4 +28,5 @@ def compute_lcm(x, y):
                                                                                                         greater = y
                                                                                                         
                                                                                                            while(True):
-                                                                                                               
+                                                                                                                      if((greater % x == 0) and (greater % y == 0)):
+                                                                                                                          
